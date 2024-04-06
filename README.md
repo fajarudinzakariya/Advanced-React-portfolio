@@ -1,1 +1,1 @@
-<P> this is project ADVANCED REACT PORTFOLIO IN COURSERA</P> 
+<p style="text-align: center; font-weight: bold;">ADVANCED REACT PORTFOLIO COURSERA</p>
